@@ -1,0 +1,15 @@
+li:nth-child(2n) {
+    background-color: #eee;
+}
+li:nth-child(3) {
+    color: red;
+}
+li:first-child{
+    background: rgba(255,0,0, .2);
+}
+li:last-child {
+    background: rgba (0, 0, 255, .2);
+}
+code {
+    border: 1px solid black;
+}
